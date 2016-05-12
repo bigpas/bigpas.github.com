@@ -6,3 +6,5 @@ category: test
 tags: [test, tech, blog]
 ---
 {% include JB/setup %}
+
+this is my new post!
